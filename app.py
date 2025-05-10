@@ -120,5 +120,5 @@ def main():
         set_alarm(time)
         print("Alarm ringing at " + time)
 
-if _name__ == "_main_":
+if __name__ == "__main__":
     main()
